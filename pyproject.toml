@@ -1,0 +1,13 @@
+[project]
+name = "mirnaseq"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython>=1.86",
+    "cutadapt>=5.2",
+    "matplotlib>=3.10.8",
+    "mirge3>=0.1.4",
+    "pandas>=3.0.1",
+    "seaborn>=0.13.2",
+]
