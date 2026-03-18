@@ -1,0 +1,805 @@
+trnaMT_MetCAT_MT_+_4402_4469:
+Cluster: 1 Total Read Count in Core: 162 Total Read Count in Halo: 2 Total RP100K in Core: 28471.00 Total RP100K in Halo: 351.49 Center Index: 1 Elements: 10 Core: 8 Halo: 2
+Center:
+AGTAAGGTCAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTAT------------------	5'-tRF	135	23725.83
+AGTAAGGTCAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTAC------------------	5'-tRF	21	3690.68
+----AGGTCAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTATACGC--------------	i-tRF	1	175.75
+---AAGGTCAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTATACC---------------	i-tRF	1	175.75
+ANTAAGGTCAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTAT------------------	5'-tRF	1	175.75
+AGTAAGGTCAGCTAAGTAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTAT------------------	5'-tRF	1	175.75
+AGTAAGGTCAGCTAAATAAGCTATCGGGCCTATACCCCGAAAATGTTGGTTAT------------------	5'-tRF	1	175.75
+AGTAAGGTCAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTG-----------------------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 1 Core: 1 Halo: 0
+Center:
+------------------AGCTATCGGGCCCATACCCCGAAAATGTTGGTTATACCCTTCCCGTACTACCA	3'-tRF	1	175.75
+**********************************
+Cluster: 3 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 4 Elements: 1 Core: 1 Halo: 0
+Center:
+-------------AAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTATACCCTTCCCGTAC-----	i-tRF	1	175.75
+**********************************
+Cluster: 4 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 5 Elements: 1 Core: 1 Halo: 0
+Center:
+--------CAGCTAAATAAGCTATCGGGCCCATACCCCGAAAATGTTGGTTATACCCTTCC----------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 4
+total Read Count : 167
+total RP100K: 29349.74
+total Cluster Core Read Count: 162+1+1+1=165
+total Cluster Core RP100K: 28471.001999999997+175.747+175.747+175.747=28998.243
+total Cluster Halo Read Count: 2+0+0+0=2
+total Cluster Halo RP100K: 351.494+0.0+0.0+0.0=351.494
+##################################
+trnaMT_SerGCT_MT_+_12207_12265:
+Cluster: 1 Total Read Count in Core: 148 Total Read Count in Halo: 0 Total RP100K in Core: 26010.54 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 5 Core: 5 Halo: 0
+Center:
+GAGAAAGCTCACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCT---------	5'-tRF	144	25307.56
+GAGAAAGCTCACAAGGACTGCTAACTCATGCCCCCATGTCTAACAACATGGCT---------	5'-tRF	1	175.75
+GAGAAAGCTCACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCA---------	5'-tRF	1	175.75
+GAGAAAGCTCACAAGAACTGCTAACTCATGCCCCCATATCTAACAACATGGCT---------	5'-tRF	1	175.75
+GAGAAAGCTCACAACAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCT---------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 16 Total Read Count in Halo: 0 Total RP100K in Core: 2811.95 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 7 Core: 7 Halo: 0
+Center:
+--------TCACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCTCACC-	3'-tRF	5	878.74
+---------CACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCTCACCA	3'-tRF	6	1054.48
+---------CACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCTCAC--	3'-tRF	1	175.75
+--------TCACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCTCACG-	3'-tRF	1	175.75
+-------CTCACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCTCAC--	3'-tRF	1	175.75
+-----AGCTCACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCTC----	i-tRF	1	175.75
+----AAGCTCACAAGAACTGCTAACTCATGCCCCCATGTCTAACAACATGGCTTTCT-----	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 164
+total RP100K: 28822.50
+total Cluster Core Read Count: 148+16=164
+total Cluster Core RP100K: 26010.545+2811.9519999999993=28822.497
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Lys-CTT-2-1:
+Cluster: 1 Total Read Count in Core: 22 Total Read Count in Halo: 0 Total RP100K in Core: 3866.43 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 5 Core: 5 Halo: 0
+Center:
+GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGGG-----------------------	5'-tRF	18	3163.45
+GCCCGGCTAGCTCAGTCGGTAGAGCATGAGGCTCTTAATCTCAGGGTCGTGGG-----------------------	5'-tRF	1	175.75
+GCCCGGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGCG-----------------------	5'-tRF	1	175.75
+GCCCGGCTAACTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGGG-----------------------	5'-tRF	1	175.75
+ACCCGGCTAGCTCAGTCGGTAGAGCATGAGACTCTTAATCTCAGGGTCGTGGG-----------------------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 3 Total Read Count in Halo: 0 Total RP100K in Core: 527.24 Total RP100K in Halo: 0.00 Center Index: 4 Elements: 3 Core: 3 Halo: 0
+Center:
+GCCCGGCTAGCTCAGTCGGTAGAGCATGAGAC--------------------------------------------	5'-half	1	175.75
+GCCCGGCTAGCTCAGTCGGTAGAGCATCAGACTC------------------------------------------	5'-half	1	175.75
+GCCCGGCTAGCTCAGTCGGTAGAGCA--------------------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 25
+total RP100K: 4393.67
+total Cluster Core Read Count: 22+3=25
+total Cluster Core RP100K: 3866.4329999999995+527.241=4393.674
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Glu-CTC-2-1:
+Cluster: 1 Total Read Count in Core: 22 Total Read Count in Halo: 0 Total RP100K in Core: 3866.43 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 2 Core: 2 Halo: 0
+Center:
+TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGT----------------------	5'-tRF	21	3690.68
+-CCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTC---------------------	i-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 3 Total Read Count in Halo: 0 Total RP100K in Core: 527.24 Total RP100K in Halo: 0.00 Center Index: 4 Elements: 3 Core: 3 Halo: 0
+Center:
+TCCCTGGTGGTCTAGTGGTTAGGATTCGGCG--------------------------------------------	5'-tRF	1	175.75
+TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCC----------------------------------------	5'-half	1	175.75
+TCCCTGGTGGTCTAGTGGTTAGGATT-------------------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 25
+total RP100K: 4393.67
+total Cluster Core Read Count: 22+3=25
+total Cluster Core RP100K: 3866.432+527.241=4393.673
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Gly-GCC-1-1:
+Cluster: 1 Total Read Count in Core: 20 Total Read Count in Halo: 0 Total RP100K in Core: 3514.94 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 4 Core: 4 Halo: 0
+Center:
+GCATGGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTC---------------------	5'-tRF	13	2284.71
+GCATGGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTT---------------------	5'-tRF	5	878.74
+GCATGGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTG---------------------	5'-tRF	1	175.75
+GCATGGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGG-----------------------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 4 Total Read Count in Halo: 0 Total RP100K in Core: 702.99 Total RP100K in Halo: 0.00 Center Index: 7 Elements: 4 Core: 4 Halo: 0
+Center:
+GCATGGGTGGTTCAGTGGTAGAATTC------------------------------------------------	5'-tRF	1	175.75
+GCATGGGTGGTTCAGTGGTAGAATTCTCGCC-------------------------------------------	5'-half	1	175.75
+GCATGGGTGGTTCAGTGGTAGAATTCGC----------------------------------------------	5'-tRF	1	175.75
+GCATGGGTGGTTCAGTGGTAGAAT--------------------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 24
+total RP100K: 4217.93
+total Cluster Core Read Count: 20+4=24
+total Cluster Core RP100K: 3514.939+702.988=4217.927
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+trnaMT_ValTAC_MT_+_1602_1670:
+Cluster: 1 Total Read Count in Core: 12 Total Read Count in Halo: 0 Total RP100K in Core: 2108.96 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 4 Core: 4 Halo: 0
+Center:
+CAGAGTGTAGCTTAACACAAAGCACCCAACTTACACTTAGGAGATTTCAACTT-------------------	5'-tRF	7	1230.23
+CAGAGTGTTGCTTAACACAAAGCACCCAACTTACACTTAGGAGATTTCAACTT-------------------	5'-tRF	3	527.24
+CAGAGTGTATCTTAACACAAAGCACCCAACTTACACTTAGGAGATTTCAACTT-------------------	5'-tRF	1	175.75
+CAGAGTGTAGCTTAACACAAAGCACCCAACTTACACTTATGAGATTTCAACTT-------------------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 4 Elements: 2 Core: 2 Halo: 0
+Center:
+------------------AAAGCACCCAACTTACACTTAGGAGATTTCAACTTAACTTGACCGCTCTGACC-	3'-tRF	1	175.75
+-------------------AAGCACCCAACTTACACTTAGGAGATTTCAACTTAACTTGACCGCTCTGACCA	3'-tRF	1	175.75
+**********************************
+Cluster: 3 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 5 Elements: 2 Core: 2 Halo: 0
+Center:
+--------------ACACAAAGCACCCAACTTACACTTAGGAGATTTCAACTTAACTTGACCGCTCT-----	i-tRF	1	175.75
+------------TAACACAAAGCACCCAACTTACACTTAGGAGATTTCAACTTAACTTGACCGCT-------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 3
+total Read Count : 16
+total RP100K: 2811.95
+total Cluster Core Read Count: 12+2+2=16
+total Cluster Core RP100K: 2108.963+351.494+351.494=2811.951
+total Cluster Halo Read Count: 0+0+0=0
+total Cluster Halo RP100K: 0.0+0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Lys-CTT-1-1:
+Cluster: 1 Total Read Count in Core: 12 Total Read Count in Halo: 0 Total RP100K in Core: 2108.96 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 3 Core: 3 Halo: 0
+Center:
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGG-----------------------	5'-tRF	10	1757.47
+GCCCGGCTAGCTCAGTCGGTAGAGCCTGGGACTCTTAATCCCAGGGTCGTGGG-----------------------	5'-tRF	1	175.75
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCCCAGGGTCGTGGC-----------------------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTC------------------------------------------	5'-half	2	351.49
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 14
+total RP100K: 2460.46
+total Cluster Core Read Count: 12+2=14
+total Cluster Core RP100K: 2108.963+351.494=2460.457
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-SeC-TCA-1-1:
+Cluster: 1 Total Read Count in Core: 12 Total Read Count in Halo: 0 Total RP100K in Core: 2108.96 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 2 Core: 2 Halo: 0
+Center:
+GCCCGGATGATCCTCAGTGGTCTGGGGTGCAGGCTTCAAACCTGTAGCTGTCT-------------------------------------	5'-tRF	11	1933.22
+GCCCGGATGATCCTCAGTGGTCTGGGGGGCAGGCTTCAAACCTGTAGCTGTCT-------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 12
+total RP100K: 2108.96
+total Cluster Core Read Count: 12=12
+total Cluster Core RP100K: 2108.9629999999997=2108.963
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Asp-GTC-2-1:
+Cluster: 1 Total Read Count in Core: 3 Total Read Count in Halo: 0 Total RP100K in Core: 527.24 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+--------------GTGGTGAGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACG--------	i-tRF	3	527.24
+**********************************
+Cluster: 2 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+TCCTCGTTAGTATAGTGGTGAGTATCCCCGCCTGTCACGCGGGAGACCGGGGT----------------------	5'-tRF	2	351.49
+**********************************
+Cluster: 3 Total Read Count in Core: 4 Total Read Count in Halo: 1 Total RP100K in Core: 702.99 Total RP100K in Halo: 175.75 Center Index: 5 Elements: 5 Core: 4 Halo: 1
+Center:
+--------------------------------------GCGGGAGACCGGGGTTCGATTCCCCG-----------	i-tRF	1	175.75
+--------------------------------------GCGGGAGACCGGGGTTCGATTCCCCGACGGGG-----	i-tRF	1	175.75
+--------------------------------------GCGGGAGACCGGGGTTCGATTCCCC------------	i-tRF	1	175.75
+------------------------------------ACGCGGGAGACCGGGGTTCGATTCCCCGACGGGG-----	i-tRF	1	175.75
+**********************************
+Cluster: 4 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 8 Elements: 1 Core: 1 Halo: 0
+Center:
+------------------------------CTTGTCACGCGGGAGACCGGGGTTC--------------------	i-tRF	1	175.75
+**********************************
+Cluster: 5 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 9 Elements: 1 Core: 1 Halo: 0
+Center:
+--------------------AGTATCCCCGCCTGTCACGCGGGAGACCGGGGTTCGATTCCCCGACGGGGAGC--	3'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 5
+total Read Count : 12
+total RP100K: 2108.96
+total Cluster Core Read Count: 3+2+4+1+1=11
+total Cluster Core RP100K: 527.241+351.494+702.988+175.747+175.747=1933.217
+total Cluster Halo Read Count: 0+0+1+0+0=1
+total Cluster Halo RP100K: 0.0+0.0+175.747+0.0+0.0=175.747
+##################################
+Homo_sapiens_tRNA-Gly-GCC-2-1:
+Cluster: 1 Total Read Count in Core: 8 Total Read Count in Halo: 0 Total RP100K in Core: 1405.98 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 2 Core: 2 Halo: 0
+Center:
+GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTC---------------------	5'-tRF	6	1054.48
+GCATTGGTGGTTCAGTGGTAGAATTCTCGCCTGCCACGCGGGAGGCCCGGGTT---------------------	5'-tRF	2	351.49
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 1 Core: 1 Halo: 0
+Center:
+-----------------------------------------GAGGCCCGGGTTCGATTCCCGGCC---------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 9
+total RP100K: 1581.72
+total Cluster Core Read Count: 8+1=9
+total Cluster Core RP100K: 1405.976+175.747=1581.723
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Gly-CCC-2-1:
+Cluster: 1 Total Read Count in Core: 8 Total Read Count in Halo: 0 Total RP100K in Core: 1405.98 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 2 Core: 2 Halo: 0
+Center:
+GCGCCGCTGGTGTAGTGGTATCATGCAAGATTCCCATTCTTGCGACCCGGGTT---------------------	5'-tRF	5	878.74
+GCGCCGCTGGTGTAGTGGTATCATGCAAGATTCCCATTCTTGCGACCCGGGTC---------------------	5'-tRF	3	527.24
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 1 Core: 1 Halo: 0
+Center:
+GCGCCGCTGGTGTAGTGGTATCATGCAA----------------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 9
+total RP100K: 1581.72
+total Cluster Core Read Count: 8+1=9
+total Cluster Core RP100K: 1405.976+175.747=1581.723
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+trnaMT_AsnGTT_MT_-_5657_5729:
+Cluster: 1 Total Read Count in Core: 3 Total Read Count in Halo: 0 Total RP100K in Core: 527.24 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 2 Core: 2 Halo: 0
+Center:
+------------AGTTGATTAGGGTGCTTAGCTGTTAACTAAGTGTTTGTGGGTTTAAGTCCCAT-----------	i-tRF	2	351.49
+---------GCCAGTTGATTAGGGTGCTTAGCTGTTAACTAAGTGTTTGTGGGTTTAAGTCC--------------	i-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 4 Elements: 1 Core: 1 Halo: 0
+Center:
+-----TGAAGCCAGTTGATTAGGGTGCTTAGCTGTTAACTAAGTGTTTGTGGGTTTAA------------------	i-tRF	1	175.75
+**********************************
+Cluster: 3 Total Read Count in Core: 4 Total Read Count in Halo: 0 Total RP100K in Core: 702.99 Total RP100K in Halo: 0.00 Center Index: 6 Elements: 3 Core: 3 Halo: 0
+Center:
+TAGATTGAAGCCAGTTGATTAGGGTGCTTAGCTGTTAACTAAGTGTTTGTGGG-----------------------	5'-tRF	1	175.75
+TAGATTGAGGCCAGTTGATTAGGGTGCTTAGCTGTTAACTAAGTGTTTGTGGG-----------------------	5'-tRF	2	351.49
+-AGATTGAAGCCAGTTGATTAGGGTGCTTAGCTGTTAACTAAGTGTTTGTGGGT----------------------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 3
+total Read Count : 8
+total RP100K: 1405.98
+total Cluster Core Read Count: 3+1+4=8
+total Cluster Core RP100K: 527.241+175.747+702.988=1405.976
+total Cluster Halo Read Count: 0+0+0=0
+total Cluster Halo RP100K: 0.0+0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-CAC-4-1:
+Cluster: 1 Total Read Count in Core: 7 Total Read Count in Halo: 0 Total RP100K in Core: 1230.23 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 3 Core: 3 Halo: 0
+Center:
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGG-----------------------	5'-tRF	3	527.24
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTGACACGCGAAAGGTCCCCGG-----------------------	5'-tRF	3	527.24
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGGCTCACACGCGAAAGGTCCCCGG-----------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 7
+total RP100K: 1230.23
+total Cluster Core Read Count: 7=7
+total Cluster Core RP100K: 1230.229=1230.229
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+trnaMT_GluTTC_MT_-_14674_14742:
+Cluster: 1 Total Read Count in Core: 6 Total Read Count in Halo: 0 Total RP100K in Core: 1054.48 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 2 Core: 2 Halo: 0
+Center:
+GTTCTTGTAGTTGAAATACAACGATGGTTTTTCATATCATTGGTCGTGGTTGT-------------------	5'-tRF	4	702.99
+GTTCTTGTTGTTGAAATACAACGATGGTTTTTCATATCATTGGTCGTGGTTGT-------------------	5'-tRF	2	351.49
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 6
+total RP100K: 1054.48
+total Cluster Core Read Count: 6=6
+total Cluster Core RP100K: 1054.482=1054.482
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Lys-TTT-3-1:
+Cluster: 1 Total Read Count in Core: 3 Total Read Count in Halo: 1 Total RP100K in Core: 527.24 Total RP100K in Halo: 175.75 Center Index: 1 Elements: 3 Core: 2 Halo: 1
+Center:
+GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTT------------------------------------------	5'-half	2	351.49
+GCCCGGATAGCTCAGTCGGTAGAGCAT-------------------------------------------------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 2 Core: 2 Halo: 0
+Center:
+GCCCGGATAGCTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGG-----------------------	5'-tRF	1	175.75
+GCCCGGATAACTCAGTCGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGG-----------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 6
+total RP100K: 1054.48
+total Cluster Core Read Count: 3+2=5
+total Cluster Core RP100K: 527.241+351.494=878.735
+total Cluster Halo Read Count: 1+0=1
+total Cluster Halo RP100K: 175.747+0.0=175.747
+##################################
+Homo_sapiens_tRNA-Lys-CTT-4-1:
+Cluster: 1 Total Read Count in Core: 4 Total Read Count in Halo: 0 Total RP100K in Core: 702.99 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACTCTTAATCTCAGGGTCGTGGG-----------------------	5'-tRF	4	702.99
+**********************************
+Cluster: 2 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 2 Core: 2 Halo: 0
+Center:
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGGACC-------------------------------------------	5'-half	1	175.75
+GCCCGGCTAGCTCAGTCGGTAGAGCATGGG----------------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 6
+total RP100K: 1054.48
+total Cluster Core Read Count: 4+2=6
+total Cluster Core RP100K: 702.988+351.494=1054.482
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-CAC-2-1:
+Cluster: 1 Total Read Count in Core: 5 Total Read Count in Halo: 0 Total RP100K in Core: 878.74 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GCTTCTGTAGTGTAGTGGTTATCACGTTCGCCTCACACGCGAAAGGTCCCCGG-----------------------	5'-tRF	5	878.74
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 5
+total RP100K: 878.74
+total Cluster Core Read Count: 5=5
+total Cluster Core RP100K: 878.735=878.735
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Glu-CTC-1-1:
+Cluster: 1 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+TCCCTGGTGGTCTAGTGGTTAGGATTCGGCGC-------------------------------------------	5'-half	2	351.49
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+---------------------------------------GCCGCGGCCCGGGTTCGATTCCCGGTCAGGGA----	i-tRF	1	175.75
+**********************************
+Cluster: 3 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 1 Core: 1 Halo: 0
+Center:
+-----------------GTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTTCGATTCCCGGTCAGGG-----	i-tRF	1	175.75
+**********************************
+Cluster: 4 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 4 Elements: 1 Core: 1 Halo: 0
+Center:
+-CCCTGGTGGTCTAGTGGTTAGGATTCGGCGCTCTCACCGCCGCGGCCCGGGTT---------------------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 4
+total Read Count : 5
+total RP100K: 878.74
+total Cluster Core Read Count: 2+1+1+1=5
+total Cluster Core RP100K: 351.494+175.747+175.747+175.747=878.735
+total Cluster Halo Read Count: 0+0+0+0=0
+total Cluster Halo RP100K: 0.0+0.0+0.0+0.0=0.000
+##################################
+trnaMT_CysGCA_MT_-_5761_5826:
+Cluster: 1 Total Read Count in Core: 4 Total Read Count in Halo: 0 Total RP100K in Core: 702.99 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 2 Core: 2 Halo: 0
+Center:
+AGCTCCGAGGTGATTTTCATATTGCATTGCAAATTCGAAGAAGCAGCTTCAAA----------------	5'-tRF	2	351.49
+AGCTCCGAGGTGATTTTCATATTGAATTGCAAATTCGAAGAAGCAGCTTCAAA----------------	5'-tRF	2	351.49
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 4
+total RP100K: 702.99
+total Cluster Core Read Count: 4=4
+total Cluster Core RP100K: 702.988=702.988
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-TAC-1-1:
+Cluster: 1 Total Read Count in Core: 4 Total Read Count in Halo: 0 Total RP100K in Core: 702.99 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GGTTCCATAGTGTAGTGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGG-----------------------	5'-tRF	4	702.99
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 4
+total RP100K: 702.99
+total Cluster Core Read Count: 4=4
+total Cluster Core RP100K: 702.988=702.988
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Gly-TCC-2-1:
+Cluster: 1 Total Read Count in Core: 4 Total Read Count in Halo: 0 Total RP100K in Core: 702.99 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GCGTTGGTGGTATAGTGGTGAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGT----------------------	5'-tRF	4	702.99
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 4
+total RP100K: 702.99
+total Cluster Core Read Count: 4=4
+total Cluster Core RP100K: 702.988=702.988
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Glu-TTC-2-1:
+Cluster: 1 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+TCCCACATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGCGGCCCGGGT----------------------	5'-tRF	2	351.49
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+---------------------GGATTCCTGGTTTTCACCCAGGCGGCCCGGGTTCGACTCCCGGTGTGGGAACC-	3'-tRF	1	175.75
+**********************************
+Cluster: 3 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 1 Core: 1 Halo: 0
+Center:
+--------------GCGGTTAGGATTCCTGGTTTTCACCCAGGCGGCCCGGGTTCGACTCCCGGTGT--------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 3
+total Read Count : 4
+total RP100K: 702.99
+total Cluster Core Read Count: 2+1+1=4
+total Cluster Core RP100K: 351.494+175.747+175.747=702.988
+total Cluster Halo Read Count: 0+0+0=0
+total Cluster Halo RP100K: 0.0+0.0+0.0=0.000
+##################################
+trnaMT_ProTGG_MT_-_15956_16023:
+Cluster: 1 Total Read Count in Core: 3 Total Read Count in Halo: 0 Total RP100K in Core: 527.24 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+CAGAGAATAGTTTAAATTAGAATCTTAGCTTTGGGTGCTAATGGTGGAGTTAA------------------	5'-tRF	3	527.24
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 3
+total RP100K: 527.24
+total Cluster Core Read Count: 3=3
+total Cluster Core RP100K: 527.241=527.241
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Asp-GTC-3-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+-------------------------------------------AGACCGGGGTTCGATTCCCCGACGGGGAGCC-	3'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+--------------------------------------GCGGGAGACCGGGGTTCGTTTCCCC------------	i-tRF	1	175.75
+**********************************
+Cluster: 3 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 3 Elements: 1 Core: 1 Halo: 0
+Center:
+--------------------------------------GCGGGAGACCGGGGGTCGATTCCCCGACGGGGA----	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 3
+total Read Count : 3
+total RP100K: 527.24
+total Cluster Core Read Count: 1+1+1=3
+total Cluster Core RP100K: 175.747+175.747+175.747=527.241
+total Cluster Halo Read Count: 0+0+0=0
+total Cluster Halo RP100K: 0.0+0.0+0.0=0.000
+##################################
+trnaMT_AspGTC_MT_+_7518_7585:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+------------AAACCATTTCATAACTTTGTCAAAGTTAAATTATAGGCTAAATCCTATATATC------	i-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+AAGGTATTAGAAAAACCATTTCATAACTTTGTCAAAGTTAAATTATAGGCTAA------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 2
+total RP100K: 351.49
+total Cluster Core Read Count: 1+1=2
+total Cluster Core RP100K: 175.747+175.747=351.494
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-CAC-3-1:
+Cluster: 1 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GTTTCCGTAGTGTAGCGGTTATCACATTCGCCTCACACGCGAAAGGTCCCCGG-----------------------	5'-tRF	2	351.49
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 2
+total RP100K: 351.49
+total Cluster Core Read Count: 2=2
+total Cluster Core RP100K: 351.494=351.494
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-AAC-3-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTGACACGCGAAAGGTCCC--------------------------	5'-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCC--------------------------------------------	5'-half	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 2
+total RP100K: 351.49
+total Cluster Core Read Count: 1+1=2
+total Cluster Core RP100K: 175.747+175.747=351.494
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+Homo_sapiens_tRNA-Glu-TTC-4-1:
+Cluster: 1 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+TCCCTGGTGGTCTAGTGGCTAGGATTCGGCGCTTTCACCGCCGCGGCCCGGGT----------------------	5'-tRF	2	351.49
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 2
+total RP100K: 351.49
+total Cluster Core Read Count: 2=2
+total Cluster Core RP100K: 351.494=351.494
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Glu-TTC-1-1:
+Cluster: 1 Total Read Count in Core: 2 Total Read Count in Halo: 0 Total RP100K in Core: 351.49 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+TCCCATATGGTCTAGCGGTTAGGATTCCTGGTTTTCACCCAGGTGGCCCGGGT----------------------	5'-tRF	2	351.49
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 2
+total RP100K: 351.49
+total Cluster Core Read Count: 2=2
+total Cluster Core RP100K: 351.494=351.494
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Asp-GTC-1-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+------------------------------------ACGCGGGAGACCGGGGTTCAATTCCCC------------	i-tRF	1	175.75
+**********************************
+Cluster: 2 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 2 Elements: 1 Core: 1 Halo: 0
+Center:
+----------------------------------TCACGCGGGAGACCGGGG-----------------------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 2
+total Read Count : 2
+total RP100K: 351.49
+total Cluster Core Read Count: 1+1=2
+total Cluster Core RP100K: 175.747+175.747=351.494
+total Cluster Halo Read Count: 0+0=0
+total Cluster Halo RP100K: 0.0+0.0=0.000
+##################################
+trnaMT_PheGAA_MT_+_577_647:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+------------TACCTCCTCAAAGCAATACACTGAAAATGTTTAGACGGGCTCACATCACCCCA---------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+trnaMT_GlyTCC_MT_+_9991_10058:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+ACTCTTTTTGTATAAATAGTACCGTTAACTTCCAATTAACTAGTTTTGACAAC------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+trnaMT_ArgTCG_MT_+_10405_10469:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+TGGTATATCGTTTAAACAAAACGAATGATTTCGACTCATTAAATTATGATAAT---------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+pre_Homo_sapiens_tRNA-Cys-GCA-6-1_trailer:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+---------------------------------------------------GTAAGGCTTTTTTTTTTTTTT----------------------------	tRF-1	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-TAC-4-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GTTTCCGTGGTGTAGTGGTTATCACATTCGCCTTACACGCGAAAGGTCCTCGG-----------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-TAC-2-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GGTTCCATAGTGTAGCGGTTATCACGTCTGCTTTACACGCAGAAGGTCCTGGG-----------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-AAC-4-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCTT------------------------------------------	5'-half	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Val-AAC-1-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GTTTCCGTAGTGTAGTGGTTATCACGTTCGCCT-------------------------------------------	5'-half	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Lys-TTT-4-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GCCTGCATAGCTCAGTCGGTAGAGCATCA-----------------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Lys-TTT-2-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GCCTGGGTAGCTCAGTTGGTAGAGCATCAGACTTTTAATCTGAGGGTCCAGGG-----------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Leu-CAA-4-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GTCAGGATGGCCGAGTGGTCTAAGGCGCCAGACTCAAGTTCTGGTCTC---------------------------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Gly-TCC-3-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GCGTTGGTGGTATAGTGGTAAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGT----------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Gly-TCC-1-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+GCGTTGGTGGTATAGTGGTTAGCATAGCTGCCTTCCAAGCAGTTGACCCGGGT----------------------	5'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Gln-CTG-1-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+--------------ATGGTTAGCACTCTGGACTCTGAATCCAGCGATCCGAGTTCAAATCTCGG-----------	i-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################
+Homo_sapiens_tRNA-Cys-GCA-5-1:
+Cluster: 1 Total Read Count in Core: 1 Total Read Count in Halo: 0 Total RP100K in Core: 175.75 Total RP100K in Halo: 0.00 Center Index: 1 Elements: 1 Core: 1 Halo: 0
+Center:
+---------------------GAGCATTTGACTGCAGATCAAGAGGTCCCCGGTTCAAATCCGGGTGCCCCCTG--	3'-tRF	1	175.75
+**********************************
+Summary:
+Number of Clusters: 1
+total Read Count : 1
+total RP100K: 175.75
+total Cluster Core Read Count: 1=1
+total Cluster Core RP100K: 175.747=175.747
+total Cluster Halo Read Count: 0=0
+total Cluster Halo RP100K: 0.0=0.000
+##################################

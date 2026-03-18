@@ -1,0 +1,57 @@
+# GFF3 adapted for miRNA sequencing data
+## VERSION 0.0.1
+## source-ontology: miRBase22
+## COLDATA: SRR1646467
+hsa-miR-26a-5p	miRBase22	isomiR	14	34	.	+	.	Read=TTCAAGTAATCCAGGATAGGC; UID=iso-21-YOSEKKHKD; Name=hsa-miR-26a-5p; Parent=hsa-mir-26a-2; Variant=iso_3p:-1; Cigar=21M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-1307-5p	miRBase22	isomiR	41	67	.	+	.	Read=TCGACCGGACCTCGACCGGCTCGCCTT; UID=iso-27-WDMD4U3JW1Q; Name=hsa-miR-1307-5p; Parent=hsa-mir-1307; Variant=iso_3p:+4,iso_add3p:+2; Cigar=27M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-30d-5p	miRBase22	isomiR	6	30	.	+	.	Read=TGTAAACATCCCCGACTGGAAGCTC; UID=iso-25-9O0MKUN2F9; Name=hsa-miR-30d-5p; Parent=hsa-mir-30d; Variant=iso_3p:+2,iso_add3p:+1; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-103a-3p	miRBase22	isomiR	48	73	.	+	.	Read=AGCAGCATTGTACAGGGCTATGACGC; UID=iso-26-FPJYUP6XXHD; Name=hsa-miR-103a-3p; Parent=hsa-mir-103a-2; Variant=iso_add3p:+3; Cigar=26M; Expression=2; Filter=Pass; Hits=2
+hsa-miR-3615	miRBase22	isomiR	51	75	.	+	.	Read=TCTCTCGGCTCCTCGCGGCTCGCTC; UID=iso-25-W7MI3SMIL9; Name=hsa-miR-3615; Parent=hsa-mir-3615; Variant=iso_3p:+2,iso_add3p:+2; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-483-5p	miRBase22	isomiR	8	29	.	+	.	Read=AAGACGGGAGGAAAGAAGGAC; UID=iso-21-DDR0O0D2D; Name=hsa-miR-483-5p; Parent=hsa-mir-483; Variant=iso_snv; Cigar=21MG; Expression=1; Filter=Pass; Hits=1
+hsa-miR-151a-5p	miRBase22	isomiR	11	36	.	+	.	Read=TCGAGGAGCTCACAGTCTAGTACGCC; UID=iso-26-W05I2PWPUVD; Name=hsa-miR-151a-5p; Parent=hsa-mir-151a; Variant=iso_3p:+3,iso_add3p:+2; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-26a-5p	miRBase22	isomiR	14	39	.	+	.	Read=TTCAAGTAATCCAGGATAGGCTCGCC; UID=iso-26-YOSEKKHK4VD; Name=hsa-miR-26a-5p; Parent=hsa-mir-26a-2; Variant=iso_add3p:+4; Cigar=26M; Expression=3; Filter=Pass; Hits=3
+hsa-miR-21-5p	miRBase22	isomiR	8	31	.	+	.	Read=TAGCTTATCAGACTGATGTTGACC; UID=iso-24-VIV6OYINHV; Name=hsa-miR-21-5p; Parent=hsa-mir-21; Variant=iso_3p:+1,iso_add3p:+1; Cigar=24M; Expression=3; Filter=Pass; Hits=3
+hsa-miR-10a-5p	miRBase22	isomiR	22	46	.	+	.	Read=TACCCTGTAGATCCGAATTTGTCGCC; UID=iso-26-UR9PHSDZSVD; Name=hsa-miR-10a-5p; Parent=hsa-mir-10a; Variant=iso_add3p:+2; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-92a-3p	miRBase22	isomiR	48	72	.	+	.	Read=TATTGCACTTGTCCCGGCCTGTAAC; UID=iso-25-VY2ZSR67SD; Name=hsa-miR-92a-3p; Parent=hsa-mir-92a-1; Variant=iso_add3p:+3; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-23b-3p	miRBase22	isomiR	58	82	.	+	.	Read=ATCACATTGCCAGGGATTTCCACGC; UID=iso-25-H5IVJKI92V; Name=hsa-miR-23b-3p; Parent=hsa-mir-23b; Variant=iso_3p:+2,iso_snv; Cigar=18MA6M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-4750-3p	miRBase22	isomiR	35	52	.	+	.	Read=ATCTGACCCCCCCCCCC; UID=iso-17-HY0RKRJ; Name=hsa-miR-4750-3p; Parent=hsa-mir-4750; Variant=iso_3p:-4,iso_snv; Cigar=C22M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-17-5p	miRBase22	isomiR	14	37	.	+	.	Read=CAAAGTGCTTACAGTGCAGGTACGC; UID=iso-25-20XZ03PKUV; Name=hsa-miR-17-5p; Parent=hsa-mir-17; Variant=iso_add3p:+1; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-29a-3p	miRBase22	isomiR	42	66	.	+	.	Read=TAGCACCATCTGAAATCGGTTCGCC; UID=iso-25-VFKMXBW3W1; Name=hsa-miR-29a-3p; Parent=hsa-mir-29a; Variant=iso_3p:+3,iso_snv; Cigar=21MA3M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-21-5p	miRBase22	isomiR	8	32	.	+	.	Read=TAGCTTATCAGACTGATGTTGACGC; UID=iso-25-VIV6OYINOV; Name=hsa-miR-21-5p; Parent=hsa-mir-21; Variant=iso_3p:+1,iso_add3p:+2; Cigar=25M; Expression=3; Filter=Pass; Hits=3
+hsa-miR-18a-5p	miRBase22	isomiR	6	31	.	+	.	Read=TAAGGTGCATCTAGTGCAGATAGCGC; UID=iso-26-UKXQ43P2VHD; Name=hsa-miR-18a-5p; Parent=hsa-mir-18a; Variant=iso_3p:+1,iso_add3p:+2; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-19b-3p	miRBase22	isomiR	54	79	.	+	.	Read=TGTGCAAATCCATGCAAAACTGCGCC; UID=iso-26-9VBMJVBDXVD; Name=hsa-miR-19b-3p; Parent=hsa-mir-19b-1; Variant=iso_add3p:+3,iso_snv; Cigar=22MA3M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-3613-3p	miRBase22	isomiR	53	75	.	+	.	Read=ACAAAAAAAAAAGCCCAACCCTACGCCT; UID=iso-28-0BBBD1214HD3; Name=hsa-miR-3613-3p; Parent=hsa-mir-3613; Variant=iso_3p:-1; Cigar=28M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-191-5p	miRBase22	isomiR	16	39	.	+	.	Read=CAACGGAATCCCAAAAGCAGCTCGC; UID=iso-25-2HOMKBFP4V; Name=hsa-miR-191-5p; Parent=hsa-mir-191; Variant=iso_add3p:+1; Cigar=25M; Expression=2; Filter=Pass; Hits=2
+hsa-miR-425-5p	miRBase22	isomiR	14	41	.	+	.	Read=AATGACACGATCACTCCCGTTGAGGCCT; UID=iso-28-DU2U8IKWXKD3; Name=hsa-miR-425-5p; Parent=hsa-mir-425; Variant=iso_3p:+1,iso_add3p:+4; Cigar=28M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-21-5p	miRBase22	isomiR	8	32	.	+	.	Read=TAGCTTATCAGACTGATGTTGACAC; UID=iso-25-VIV6OYINO5; Name=hsa-miR-21-5p; Parent=hsa-mir-21; Variant=iso_3p:+1,iso_add3p:+2; Cigar=25M; Expression=3; Filter=Pass; Hits=3
+hsa-miR-210-3p	miRBase22	isomiR	66	90	.	+	.	Read=CTGTGCGTGTGACAGCGGCTGACGC; UID=iso-25-N4MWOPMIOV; Name=hsa-miR-210-3p; Parent=hsa-mir-210; Variant=iso_add3p:+3; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-3130-5p	miRBase22	isomiR	13	38	.	+	.	Read=TACCCAGTCTCCGGTGCAGCCCGCCT; UID=iso-26-UR1733PJ31E; Name=hsa-miR-3130-5p; Parent=hsa-mir-3130-1; Variant=iso_3p:+1,iso_add3p:+4; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-1307-5p	miRBase22	isomiR	41	65	.	+	.	Read=TCGACCGGACCTCGACCGGCTCGCC; UID=iso-25-WDMD4U3JW1; Name=hsa-miR-1307-5p; Parent=hsa-mir-1307; Variant=iso_3p:+3,iso_add3p:+1; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-23b-3p	miRBase22	isomiR	58	80	.	+	.	Read=ATCACATTGCCAGGGATTACCC; UID=iso-22-H5IVJKI5J; Name=hsa-miR-23b-3p; Parent=hsa-mir-23b; Variant=iso_snv; Cigar=22M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-92a-3p	miRBase22	isomiR	48	73	.	+	.	Read=TATTGCACTTGTCCCGGCCTGTAGCC; UID=iso-26-VY2ZSR67SJD; Name=hsa-miR-92a-3p; Parent=hsa-mir-92a-1; Variant=iso_3p:+1,iso_add3p:+3; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-192-5p	miRBase22	isomiR	24	48	.	+	.	Read=CTGACCTATGAATTGACAGCCACGC; UID=iso-25-ND44DY0J2V; Name=hsa-miR-192-5p; Parent=hsa-mir-192; Variant=iso_3p:+1,iso_add3p:+3; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-320a-3p	miRBase22	isomiR	42	66	.	+	.	Read=AAAAGCTGGGTTGAGAGGGCGAACG; UID=iso-25-B0NKZ01JOH; Name=hsa-miR-320a-3p; Parent=hsa-mir-320a; Variant=iso_3p:+1,iso_add3p:+2; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-192-5p	miRBase22	isomiR	24	48	.	+	.	Read=CTGACCTATGAATTGACAGCCCGCC; UID=iso-25-ND44DY0J31; Name=hsa-miR-192-5p; Parent=hsa-mir-192; Variant=iso_3p:+1,iso_add3p:+3; Cigar=25M; Expression=3; Filter=Pass; Hits=3
+hsa-miR-103a-3p	miRBase22	isomiR	48	74	.	+	.	Read=AGCAGCATTGTACAGGGCTATGACGCC; UID=iso-27-FPJYUP6XXHJ; Name=hsa-miR-103a-3p; Parent=hsa-mir-103a-2; Variant=iso_add3p:+4; Cigar=27M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-106b-5p	miRBase22	isomiR	12	37	.	+	.	Read=TAAAGTGCTGACAGTGCAGATACGCC; UID=iso-26-U0XY03P2UVD; Name=hsa-miR-106b-5p; Parent=hsa-mir-106b; Variant=iso_3p:+1,iso_add3p:+4; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-331-3p	miRBase22	isomiR	61	85	.	+	.	Read=GCCCCTGGGCCTATTCTAGAAACGC; UID=iso-25-PR9J4N42BV; Name=hsa-miR-331-3p; Parent=hsa-mir-331; Variant=iso_3p:+1,iso_add3p:+3,iso_snv_central_supp; Cigar=14MC10M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-92a-3p	miRBase22	isomiR	48	73	.	+	.	Read=TATTGCACTTGTCCCGGCCTGTCGCC; UID=iso-26-VY2ZSR67SVD; Name=hsa-miR-92a-3p; Parent=hsa-mir-92a-1; Variant=iso_3p:+1,iso_add3p:+3; Cigar=26M; Expression=2; Filter=Pass; Hits=2
+hsa-miR-23a-3p	miRBase22	isomiR	45	72	.	+	.	Read=ATCACATTGCCAGGGATTTCCAACGCCT; UID=iso-28-H5IVJKI92HD3; Name=hsa-miR-23a-3p; Parent=hsa-mir-23a; Variant=iso_3p:+3,iso_add3p:+4; Cigar=28M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-19a-3p	miRBase22	isomiR	49	72	.	+	.	Read=TGTGCAAATCTATGCAAAACTCGCC; UID=iso-25-9VBMVVBDW1; Name=hsa-miR-19a-3p; Parent=hsa-mir-19a; Variant=iso_add3p:+1,iso_snv; Cigar=23MAM; Expression=1; Filter=Pass; Hits=1
+hsa-miR-18a-5p	miRBase22	isomiR	6	30	.	+	.	Read=TAAGGTGCATCTAGTGCAGATACGCC; UID=iso-26-UKXQ43P2UVD; Name=hsa-miR-18a-5p; Parent=hsa-mir-18a; Variant=iso_add3p:+2; Cigar=26M; Expression=2; Filter=Pass; Hits=2
+hsa-miR-222-3p	miRBase22	isomiR	69	96	.	+	.	Read=AGCTACATCTGGCTACTGGGTCTCGCCT; UID=iso-28-FXJ76XNKWSD3; Name=hsa-miR-222-3p; Parent=hsa-mir-222; Variant=iso_3p:+4,iso_add3p:+3; Cigar=28M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-141-3p	miRBase22	isomiR	59	83	.	+	.	Read=TAACACTGTCTGGTAAAGATGGCAC; UID=iso-25-UFNM9LDE65; Name=hsa-miR-141-3p; Parent=hsa-mir-141; Variant=iso_3p:+2,iso_add3p:+1; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-375-3p	miRBase22	isomiR	40	65	.	+	.	Read=TTTGTTCGTTCGGCTCGCGTGACGCC; UID=iso-26-ZWWNMILWOVD; Name=hsa-miR-375-3p; Parent=hsa-mir-375; Variant=iso_3p:+4; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-93-5p	miRBase22	isomiR	11	34	.	+	.	Read=CAAAGTGCTGTTCGTGCAGGTACGC; UID=iso-25-20XYYWPKUV; Name=hsa-miR-93-5p; Parent=hsa-mir-93; Variant=iso_add3p:+1; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-425-3p	miRBase22	isomiR	55	79	.	+	.	Read=ATCGGGAATGTCGTGTCCGCCCCCC; UID=iso-25-H8O4W48VKR; Name=hsa-miR-425-3p; Parent=hsa-mir-425; Variant=iso_add3p:+3; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-27a-3p	miRBase22	isomiR	51	74	.	+	.	Read=TTCACAGTGGCTAAGTTCCGACGCC; UID=iso-25-Y51840YSE1; Name=hsa-miR-27a-3p; Parent=hsa-mir-27a; Variant=iso_3p:+2,iso_add3p:+1; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-191-5p	miRBase22	isomiR	16	40	.	+	.	Read=CAACGGAATCCCAAAAGCAGCTGGC; UID=iso-25-2HOMKBFPNJ; Name=hsa-miR-191-5p; Parent=hsa-mir-191; Variant=iso_add3p:+2; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-29c-3p	miRBase22	isomiR	54	79	.	+	.	Read=TAGCACCATTTGAAATCGGTTAACGC; UID=iso-26-VFKNXBW3UHD; Name=hsa-miR-29c-3p; Parent=hsa-mir-29c; Variant=iso_add3p:+4; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-31-5p	miRBase22	isomiR	8	33	.	+	.	Read=AGGCAAGATGCTGGCATAGCTGCGCC; UID=iso-26-1FF4NJHJXVD; Name=hsa-miR-31-5p; Parent=hsa-mir-31; Variant=iso_3p:+1,iso_add3p:+4; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-26a-5p	miRBase22	isomiR	14	38	.	+	.	Read=TTCAAGTAATCCAGGATAGGCTAAC; UID=iso-25-YOSEKKHK4D; Name=hsa-miR-26a-5p; Parent=hsa-mir-26a-2; Variant=iso_add3p:+3; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-let-7b-5p	miRBase22	isomiR	6	33	.	+	.	Read=TGAGGTAGTAGGTTGTGTGGTTTACGCC; UID=iso-28-XKVLRY98Z5DV; Name=hsa-let-7b-5p; Parent=hsa-let-7b; Variant=iso_3p:+2,iso_add3p:+4; Cigar=28M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-192-5p	miRBase22	isomiR	24	49	.	+	.	Read=CTGACCTATGAATTGACAGCCCGCCC; UID=iso-26-ND44DY0J31D; Name=hsa-miR-192-5p; Parent=hsa-mir-192; Variant=iso_3p:+2,iso_add3p:+3; Cigar=26M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-21-5p	miRBase22	isomiR	8	34	.	+	.	Read=TAGCTTATCAGACTGATGTTGACGCCT; UID=iso-27-VIV6OYINOV3; Name=hsa-miR-21-5p; Parent=hsa-mir-21; Variant=iso_3p:+2,iso_add3p:+3; Cigar=27M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-19b-3p	miRBase22	isomiR	54	76	.	+	.	Read=TGTGCAAATCCATGCAAAACTTGC; UID=iso-24-9VBMJVBDKM; Name=hsa-miR-19b-3p; Parent=hsa-mir-19b-1; Variant=iso_snv; Cigar=23MA; Expression=1; Filter=Pass; Hits=1
+hsa-miR-574-5p	miRBase22	isomiR	25	49	.	+	.	Read=TGAGTGTGTGTGTGTGAGTGTGTGC; UID=iso-25-X3749W549V; Name=hsa-miR-574-5p; Parent=hsa-mir-574; Variant=iso_3p:+1,iso_add3p:+1; Cigar=25M; Expression=1; Filter=Pass; Hits=1
+hsa-miR-92a-3p	miRBase22	isomiR	48	73	.	+	.	Read=TATTGCACTTGTCCCGGCCTGTCCCC; UID=iso-26-VY2ZSR67SRD; Name=hsa-miR-92a-3p; Parent=hsa-mir-92a-1; Variant=iso_add3p:+4; Cigar=26M; Expression=1; Filter=Pass; Hits=1
